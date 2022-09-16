@@ -1,4 +1,5 @@
 # SimpleLandingPage
+# technical assignment - ## https://docs.google.com/document/d/14Cb_CBFWYvlMJ29af5IDKRLHHabj0jqT1sWoLkQi-vI/edit
 # in this project i used jQuery libraty Slick for slider
 # background Video
 # inputs clue
